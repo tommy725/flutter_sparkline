@@ -14,7 +14,7 @@ Install the latest version [from pub](https://pub.dartlang.org/packages/flutter_
 
 Import the package, create a `Sparkline`, and pass it your data.
 
-```dart
+```dart 
 import 'package:flutter/material.dart';
 import 'package:flutter_sparkline/flutter_sparkline.dart';
 
